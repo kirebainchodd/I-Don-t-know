@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
+  "name": "𝚃𝙰𝙽𝚅𝙸𝚁",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
   "logo": "https://i.postimg.cc/kXzxfdhj/IMG-20250721-WA0014.jpg",
-  "keywords": ["TANVIR"],
+  "keywords": ["𝚃𝙰𝙽𝚅𝙸𝚁"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "Tanvir"
+      "value": "𝚃𝙰𝙽𝚅𝙸𝚁"
     },
     
     "MENU_IMAGE_URL": {
