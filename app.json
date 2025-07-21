@@ -1,8 +1,8 @@
 {
   "name": "SHABAN-MD",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "logo": "https://i.postimg.cc/kXzxfdhj/IMG-20250721-WA0014.jpg",
+  "keywords": ["TANVIR"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD︎"
+      "value": "Tanvir"
     },
     
     "MENU_IMAGE_URL": {
@@ -41,7 +41,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },   
   
     "AUTO_VOICE": {
@@ -91,7 +91,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "TANVIR V5"
 
      },
      
